@@ -6,4 +6,3 @@ toplam = sayi1 + sayi2
 
 print(f"Girilen sayıların toplamı: {toplam}")
 
-ftl = 0
